@@ -32,7 +32,7 @@ You can install these libraries using pip:
      
   3. Open the Jupyter notebook:
      
-               jupyter notebook "Elrction_2024.ipynb"
+               jupyter notebook "Churn_Analysis.ipynb"
 
   4. Run the cells in the notebook to perform the analysis.
      
